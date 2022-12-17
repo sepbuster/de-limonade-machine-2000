@@ -29,3 +29,27 @@ De Limonade Machine 2000 verkoopt 2 soorten limonade aan klanten.
 - Magneetventiel 2x
 - Kartonnen Doos of misschien een houten plank(en)
 - Lijmpistool
+
+## Stappenplan
+
+### Stap 1
+
+We gebruiken alleen het OLED en laten op het scherm zien wat er gebeurt.
+
+### Stap 2
+
+Toevoegen functionaliteit om centje te detecteren
+
+### Stap 3
+
+Toevoegen functionaliteit om bekertje te detecteren
+
+### Stap 4
+
+Toevoegen functionaliteit om limonade te schenken
+
+### Stap 5
+
+Het maken van het apparaat
+
+
